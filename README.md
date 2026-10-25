@@ -39,6 +39,23 @@ This project explores flight delay data using Python and data visualization libr
 5. Interpretation of findings
 6. Conclusions and limitations
 
+##  Visualizations
+
+### 1. Average Departure Delay by Airline
+![Airline Delays](images/airline_delays.png)
+
+### 2. Distribution of Departure Delays
+![Departure Delay Distribution](images/delay_distribution.png)
+
+### 3. Average Departure Delay by Scheduled Hour
+![Hourly Delay Analysis](images/hourly_delay_analysis.png)
+
+### 4. Top 10 Origin Airports by Average Departure Delay
+![Airport Delay Comparison](images/airport_delay_comparison.png)
+
+### 5. Departure Delay vs. Arrival Delay
+![Departure vs Arrival Delay](images/departure_arrival_relationship.png)
+
 ## Limitations
 
 This analysis uses a limited sample of flight records. Results may not generalize to all flights. Missing values, extreme delays, and differences in sample sizes may influence the findings. Correlation does not prove causation.
